@@ -1,0 +1,13 @@
+{
+  "host": "127.0.0.1",
+  "port": 18765,
+  "server_hostname": "localhost",
+  "db_host": "127.0.0.1",
+  "db_port": 13306,
+  "db_name": "restaurant",
+  "db_user": "restaurant_app",
+  "db_password": "REPLACE_WITH_LOCAL_PASSWORD",
+  "cert_file": "certs/server.crt",
+  "key_file": "certs/server.key",
+  "log_file": ".runtime/server.log"
+}
