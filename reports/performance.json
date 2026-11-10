@@ -1,0 +1,17 @@
+{
+  "clients": 10,
+  "duration_seconds": 60.015,
+  "requests": 600,
+  "throughput_rps": 9.998,
+  "p95_ms": 26.837,
+  "maximum_ms": 59.486,
+  "error_count": 0,
+  "operations": {
+    "submit_order": 20,
+    "list_dishes": 160,
+    "list_kitchen_orders": 180,
+    "get_order_status": 220,
+    "settle_bill": 20
+  },
+  "scope": "Windows本机回环网络，MySQL8.0，登录和测试数据准备不计入600次请求"
+}
